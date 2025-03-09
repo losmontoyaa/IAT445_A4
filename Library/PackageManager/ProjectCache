@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638770938483467847
+      ticks: 638771012955958396
     m_Hash: 3725847042
   m_LockFileStatus:
     m_FilePath: D:/Github/IAT445_A4/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638770938483467847
+      ticks: 638771012955968361
     m_Hash: 290768180
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
